@@ -1,0 +1,38 @@
+  
+    /*Author     : Mosebjadi Thelele
+*/
+
+body {
+    margin: 0px;
+    padding: 5px;
+    /*background-color:#ef0000;*/
+    align-items: center;
+    font-family: Iskoola Pota;
+    text-align: center;
+    font-weight: 100;
+    background-repeat: repeat-x;
+    /*background-size: cover;*/
+    
+}
+h1 {
+    color: wheat;
+    font-size: 60px;
+    font-family: AR CHRISTY;
+}
+
+h2 {
+    
+    font-size: 40px;
+    font-family: AR BLANCA;
+    
+}
+
+#container {
+    /*background-image: url('images (4).jpeg');*/
+    height: 50vh;
+    background-repeat: repeat;
+    
+}
+
+
+
